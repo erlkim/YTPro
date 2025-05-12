@@ -527,14 +527,14 @@ ytpSetI.innerHTML+=`<br><b style='font-size:18px' >YT PRO Settings</b>
 </svg>
 </button>
 <br>
-<button onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/issues')">Report Bugs
+<button onclick="Android.oplink('https://github.com/erlkim')">Report Bugs
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="${isD ? "#ccc" : "#444"}" viewBox="0 0 16 16">
 <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708"/>
 </svg>
 </button>
 <br><br>
 <p style="font-size:1.25rem;width:calc(100% - 20px);margin:auto;text-align:left"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube Mod, all the logos and brand names are property of Google LLC.<br>
-You can find the source code at <a href="#" style="font-family:monospace;" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO')" > https://github.com/prateek-chaubey/YTPRO</a>
+You can find the source code at <a href="#" style="font-family:monospace;" onclick="Android.oplink('https://github.com/erlkim/YTPRO')" > https://github.com/erlkim/YTPRO</a>
 <br><br></p><br><br><br>
 
 <div class="geminiModels">
@@ -563,7 +563,7 @@ stroke="black" ${ !isD ? "stroke-width='1'" : "" } stroke-linejoin="round" strok
 
 
 
-<z style="margin-left:6px">by Prateek Chaubey</z>
+<z style="margin-left:6px">By Erlkim ❤️</z>
 </div>
 `;
 
@@ -2037,7 +2037,7 @@ Latest Version ${YTProVer} of YTPRO is available , update the YTPRO to get lates
 - Optimized the UI of both Download and Settings menu<br>
 - Fixed the full screen bug<br>
 - Fixed bugs and improved functionality<br>
-- for the full list <u onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/releases');" >click here</u>
+- for the full list <u onclick="Android.oplink('https://github.com/erlkim');" >click here</u>
 <br>
 <br>
 <div style="display:flex;">
